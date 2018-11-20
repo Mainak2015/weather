@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="current_n_upcoming_weather"><![CDATA[Current & Upcoming Weather]]> </string>
+    <string name="temp_c">\u2103</string>
+    <string name="temp_f">\u2109</string>
+    <!--Error message-->
+    <string name="err_msg_internet">Please try again</string>
+    <string name="err_msg_internet_connection">No internet.</string>
+    <string name="please_try_again">Please try again</string>
+</resources>

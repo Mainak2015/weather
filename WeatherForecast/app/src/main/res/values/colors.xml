@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAppBlack">#000000</color>
+    <color name="colorAppWhite">#FFFFFF</color>
+    <color name="colorAppTitle">#9b9b9b</color>
+    <color name="colorAppFeedBg">#50000000</color>
+    <color name="colorAppDsce">#494949</color>
+    <color name="colorAppFeedDivider">#dcd8d9</color>
+    <color name="colorAppBorder">#a1a1a1</color>
+    <color name="colorAppTextDark">#636363</color>
+
+    <style name="ProjectColor"></style>
+</resources>
